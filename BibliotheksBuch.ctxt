@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BibliotheksBuch
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ BibliotheksBuch.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=b\ i\ s
+comment1.target=BibliotheksBuch(Buch,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=Buch\ gibBuch()
+comment3.params=
+comment3.target=int\ gibInventnummer()
+comment4.params=
+comment4.target=java.lang.String\ gibStandnummer()
+comment5.params=n
+comment5.target=void\ setzNeustandnummer(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ infoBibliotheksBuch()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

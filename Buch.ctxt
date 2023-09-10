@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Buch
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Buch.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=t\ a\ p
+comment1.target=Buch(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ gibTitel()
+comment3.params=
+comment3.target=java.lang.String\ gibAutor()
+comment4.params=
+comment4.target=double\ gibPreis()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
